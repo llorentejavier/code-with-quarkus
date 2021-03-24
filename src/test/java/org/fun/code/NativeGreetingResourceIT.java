@@ -1,4 +1,4 @@
-package org.fun.code.for.fun;
+package org.fun.code;
 
 import io.quarkus.test.junit.NativeImageTest;
 
